@@ -1,0 +1,11 @@
+@import url(./places__container_stuff/places__container_stuff.css);
+  
+.places__container {
+  overflow: hidden;
+  width: 100%;
+}
+
+.places__container:nth-child(5) {  
+  grid-column: 1 / 3;
+	grid-row: 3
+}

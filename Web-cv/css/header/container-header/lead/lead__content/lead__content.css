@@ -1,0 +1,11 @@
+@import url(./lead__content_userpic/lead__content_userpic.css);
+@import url(./lead__content_speech/lead__content_speech.css);
+
+
+.lead__content {
+    margin: auto;
+    
+    
+    display: flex;
+    align-items: flex-start;
+} 

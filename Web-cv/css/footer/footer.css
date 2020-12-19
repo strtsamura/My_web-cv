@@ -1,0 +1,8 @@
+@import url('./__content/footer__content.css');
+
+.footer {
+    width: 100%;
+    background-color: rgb(70, 66, 66); 
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 48px 0px; 
+}

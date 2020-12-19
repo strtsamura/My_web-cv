@@ -1,0 +1,8 @@
+@import url(./places__paragraph_bold/places__paragraph_bold.css);
+@import url(./places__button/places__button.css);
+
+.places__paragraph {
+    margin: 10px;  
+    font-size: 9px;
+    /* text-align: center; */
+}

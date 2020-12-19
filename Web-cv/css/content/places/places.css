@@ -1,0 +1,12 @@
+@import url(./places__container/places__container.css);
+
+.places {
+    background-color: #a9a7af;
+    margin: auto;
+    padding-top: 50px;
+    width: 45%;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(284px,4fr));
+    grid-gap: 20px;
+    margin: 0 auto 0 auto;
+}

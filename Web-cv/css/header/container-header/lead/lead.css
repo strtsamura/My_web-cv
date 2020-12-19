@@ -1,0 +1,9 @@
+@import url(./lead__title/lead__title.css);
+@import url(./lead__content/lead__content.css);
+
+.lead {
+    width: 25%;
+    background-color: #000000d0;
+    border: turquoise solid 1px;
+    padding: 15px 10px 10px 10px;
+}

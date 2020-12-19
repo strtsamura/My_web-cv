@@ -1,0 +1,34 @@
+@import url(./places__tab/places__tab.css);
+
+.places__container_stuff {
+  width: 100%;
+  margin-bottom: 45px;
+  background: linear-gradient(90deg,  #2e2c35 0%, #676475 50%, #a9a7af 100%);
+  border: 2px solid turquoise;
+  border-right: 2px solid turquoise;
+  position: relative;
+}
+
+.places__container_stuff:before {
+  border-right: 2px solid turquoise;
+  width: 50px;
+  height: 30px;
+  content: '';
+  position: absolute;
+  transform: rotate(50deg);
+  left: -32px;
+  top: -26px;
+  background: #a9a7af;
+}
+
+.places__container_stuff:after {
+  border-left: 2px solid  turquoise;
+  width: 50px;
+  height: 30px;
+  content: '';
+  position: absolute;
+  transform: rotate(50deg);
+  right: -32px;
+  bottom: -26px;
+  background: #a9a7af;
+}

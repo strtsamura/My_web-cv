@@ -1,0 +1,10 @@
+@import url('./__coppyright/footer__coppyright.css');
+
+.footer__content {
+    max-width: 1184px; 
+    margin: 0px auto 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+}
+
